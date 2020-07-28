@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.fondo {
+  background: url('/Imagenes/santafe.jpg');
+  height: 110vh;
+  background-position: center;
+  background-size: cover;
+}

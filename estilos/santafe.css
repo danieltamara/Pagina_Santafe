@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, header, section, footer, aside, nav, hgroup {
+  border: 1px solid #ffe027;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 25px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+body {
+  text-align: center;
+}
+
+.agrupar {
+  margin: auto;
+}
+
+.header {
+  background: #d9534f;
+}
+
+#h2 {
+  background: #ffe027;
+  text-align: left;
+}
+
+.menu {
+  background: #ebe7e4;
+  text-align: left;
+}
+
+.menu li {
+  list-style: none;
+  font: bold 15px verdana;
+  display: inline-block;
+  padding: 5px;
+}
+
+.seccion {
+  margin: 20px;
+  width: 700px;
+  border: 1px solid #ffe027;
+  float: left;
+}
+
+article {
+  background: #ebe7e4;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+#pe {
+  text-align: justify;
+}
+
+#p {
+  text-align: left;
+}
+
+.vinculo {
+  text-align: left;
+}
+
+#imagen {
+  padding: 5px;
+  text-align: left;
+}
+
+.columna {
+  margin: 20px 0;
+  width: 550px;
+  float: left;
+}
+
+.pie {
+  clear: both;
+}
